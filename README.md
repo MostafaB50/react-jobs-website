@@ -52,7 +52,8 @@ To run the application locally, follow these steps:
    ```
 6. Open your web browser and visit `http://localhost:3000` to see the application.
 
-The application uses a mock API provided by the JSON server to handle the job data. The JSON server is running on `http://localhost:8000/api/jobs`.
+The application uses a mock API provided by the JSON server to handle the job data. The JSON server is running on: 
+`http://localhost:8000/jobs`.
 
 ## Deployment
 
